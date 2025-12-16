@@ -1,0 +1,5 @@
+{
+  "name": "Link in Bio - Shader Background",
+  "description": "A stylish Link in Bio page featuring a custom Three.js shader background and interactive buttons.",
+  "requestFramePermissions": []
+}
